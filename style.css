@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+#camera{
+    width: 360px;
+    height: 250px;
+    border: 1px solid blueviolet;
+    margin: auto;
+}
+
+#logo{
+    width: 100px;qq
+    border-radius:100px ;
+}
+
+#caixa-de-texto{
+    width: 300px;
+    margin: auto;
+}
+
